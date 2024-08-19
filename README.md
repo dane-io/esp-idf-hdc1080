@@ -1,3 +1,3 @@
-Sample ESP-IDF project using custom driver for HDC1080. Note, a ESP-IDF component exists for the HDC1080, but it uses the deprecated i2c.h drivers which don't seem to play well with light sleep. The driver used here uses the new i2c_master.h drivers.
+This repository contains a driver (in the top level) for the TI HDC1080 with ESP-IDF. Note, I created this driver to work with the new i2c_master.h ESP-IDF drivers, which should play better with light sleep.
 
 Dane
