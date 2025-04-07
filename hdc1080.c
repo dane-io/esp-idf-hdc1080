@@ -1,4 +1,4 @@
-// Written by Dane Thompson (Use at your own risk!)
+// Written by Dane (Use at your own risk!)
 // 8/19/2024
 #include <stdio.h>
 
